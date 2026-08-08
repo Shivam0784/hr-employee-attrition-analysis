@@ -30,8 +30,8 @@ An end-to-end data analytics project analysing 1,470 employee records to uncover
 - hr_analysis.ipynb — Python EDA with 8 charts and correlation heatmap
 - hr_attrition_queries.sql — all SQL queries including advanced window functions
 - HR_Attrition_Dashboard.pbix — Power BI dashboard file
-- dashboard_overview.png — Attrition Overview page screenshot
-- salary_simulator.png — Salary Impact Simulator page screenshot
+- Attrition Overview screenshots
+- Salary Impact Simulator screenshots
 
 ## Dashboard Preview
 
