@@ -41,3 +41,7 @@ An end-to-end data analytics project analysing 1,470 employee records to uncover
 
 ### Page 2 — Salary Impact Simulator
 <img width="783" height="441" alt="Salary_Simulation" src="https://github.com/user-attachments/assets/5e404fa3-b4a8-406f-b3ed-bd4c9241ea51" />
+
+
+<iframe title="Hr_Analysis_Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2VhZDExNzctZWE2Mi00YjZhLWE1NTQtNjhmYzAwOGExNDhkIiwidCI6IjhiNjU2MjhkLWYxOTctNGE3My1iMzkwLTgyNjRlMDg1MjZlNiJ9" frameborder="0" allowFullScreen="true"></iframe>
+
